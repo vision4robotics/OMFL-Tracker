@@ -1,3 +1,6 @@
+%   Loads relevant information of UAV123 in the given path.
+%   Fuling Lin, 2018
+
 function seq = load_video_info_UAV123(video_name, video_path, ground_truth_path)
 
     seqs=configSeqs(video_path);
