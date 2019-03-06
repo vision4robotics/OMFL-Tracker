@@ -13,7 +13,7 @@ run `OMFL_Demo_adapted`
 If you find the code and dataset useful in your research, please consider citing:
 
 ```
-@article{Fu-OMFL-2018,
+@article{Fu-OMFL-2019,
     title={Correlation Filter-Based Visual Tracking for UAV with Online Multi-Feature Learning},
     Author = {Changhong Fu, Fuling Lin, Yiming Li, Guang Chen},
     journal={Remote Sensing},
